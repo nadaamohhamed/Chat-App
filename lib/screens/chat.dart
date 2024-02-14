@@ -32,7 +32,7 @@ class _ChatScreenState extends State<ChatScreen> {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          'Chats',
+          'Chat',
           style: Theme.of(context)
               .textTheme
               .titleLarge!
